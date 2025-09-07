@@ -8,8 +8,6 @@ Built on three core pillars - **Authority**, **Relevance**, and **Clarity** - th
 
 The framework transforms traditional SEO into a sophisticated AI optimization system that understands and leverages the unique ranking mechanisms of each AI platform, creating unprecedented opportunities for visibility, traffic, and conversion growth.
 
-![The ARC.ai Framework: A comprehensive AI SEO methodology with three core pillars for optimizing content visibility across LLM platforms](ARC%20ai%20Framework%20Advanced%20AI%20SEO%20Methodology%20264e6094a2c1809eb089fdc48cd004c7/image1.png)
-
 **FRAMEWORK INTELLIGENCE: Research Foundation**
 
 **Platform Analysis and Optimization Discovery**
@@ -33,8 +31,6 @@ Successful optimization for Perplexity requires content that leads with clear an
 **Claude Performance Research**: Detailed analysis of Claude's semantic understanding and response patterns revealed optimization strategies for natural language processing and conversational query matching through extensive testing protocols.
 
 **Cross-Platform Integration Studies**: Research across all major AI platforms identified cross-platform optimization opportunities, content synchronization strategies, and authority transfer mechanisms for compound visibility effects.
-
-![AI Platform Ranking Factor Matrix: Comparative importance of optimization factors across major AI search platforms](ARC%20ai%20Framework%20Advanced%20AI%20SEO%20Methodology%20264e6094a2c1809eb089fdc48cd004c7/image2.png)
 
 AI Platform Ranking Factor Matrix: Comparative importance of optimization factors across major AI search platforms
 
